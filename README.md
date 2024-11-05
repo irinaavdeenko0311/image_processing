@@ -14,6 +14,8 @@ docker-compose up
 
 
 ## Описание
+Архитектура проекта: project_architecture.png
+
 ### 1. Веб-API - Django
 /src
 Можно создать суперпользователя кастомной командой (используются username и password из .env файла):
