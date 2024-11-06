@@ -2,7 +2,7 @@
 
 Создайте .env файл по шаблону .env_template:
 ```
-cp .env_template .envv
+cp .env_template .env
 ```
 
 Запуск проекта:
